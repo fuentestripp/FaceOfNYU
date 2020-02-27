@@ -32,7 +32,7 @@ body {
   align-items: center;
 }
 
-#pic img, #pic1 img, #pic2 img, #pic3 img, #pic4 img {
+#pic img, #pic1 img, #pic2 img, #pic3 img, {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
